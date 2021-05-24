@@ -42,3 +42,7 @@ All my created and ported libraries will be open source for the common usage.
 #### 0.0.1
 
 - Updated readme for memory based libraries.
+
+#### 0.0.2
+
+- Updated **Storage** wear levelling algorithm to use less codespace and easy flow for storing configurations each 32 Bytes long based on logical partitioning
